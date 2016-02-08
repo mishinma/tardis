@@ -3,7 +3,7 @@ scipy==0.16
 pandas==0.17.1
 pytables==3.2
 h5py==2.5
-matplotlib==1.4
+matplotlib==1.5.1
 astropy==1.1.1
 PyYAML==3.11
 numexpr==2.4.4
